@@ -2,6 +2,16 @@
   box-sizing: border-box; }
 
 /*insert custom css below*/
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <title>CSS color and text</title>
+    <meta name="viewport" content="width=device-width, initial-scale=2">
+    <link rel="stylesheet" type="text/css" href="css/normalize.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="css/custom.css" media="screen">
+  </head>
+  
 <section class="main-content"
  <!-- a box -->
 <div class="box">
